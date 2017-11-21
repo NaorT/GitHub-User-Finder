@@ -1,2 +1,3 @@
 # GitHub-User-Finder
-Search for Github.com user profiles and displays profile info and latest repositories
+
+A JavaScript/jQuery application that fetches and displays Github user profile info and repositories using Ajax.
