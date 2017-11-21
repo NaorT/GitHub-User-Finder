@@ -1,0 +1,33 @@
+nav{
+  margin-bottom: 50px;
+}
+
+.avatar{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.card-body .badge{
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#repos{
+  margin-top: 20px;
+}
+
+#repos .badge{
+  padding: 10px;
+
+}
+
+.repos-header{
+  margin-top: 50px;
+}
+
+.well{
+  background: #f1f1f1;
+  padding: 10px 0px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
